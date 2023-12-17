@@ -10,13 +10,7 @@ form a 4x4 square without any gaps, it should automatically rotate or flip the
 pieces or keep them on their original state to form that perfect 4x4 square.</p>
 
 
-<h3 align="left">Connect with Us:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed hany" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nada.sabri.9849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hany" height="30" width="40" /></a>
-<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lîon heart" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Solver_-_NaDooDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saytara" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
