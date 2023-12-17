@@ -27,15 +27,6 @@ pieces or keep them on their original state to form that perfect 4x4 square.</p>
 </p>
 
 
-<h3 align="left">📸 Prototype Images:</h3>
-
-![Screenshot from 2022-01-29 15-08-27](https://user-images.githubusercontent.com/73343985/151662310-0279b864-d48e-45a9-97f6-c8598dd64f1c.png)
-![Screenshot from 2022-01-29 15-07-12](https://user-images.githubusercontent.com/73343985/151662302-a195dbc0-0eee-4112-9d0e-8303efe10c69.png)
-![Screenshot from 2022-01-29 15-09-09](https://user-images.githubusercontent.com/73343985/151662321-89d93c5e-d35a-4257-8ffd-ced1a13ebe2c.png)
-
-
-<h3 align="left">More Examples:</h3>
-
 <p>1- L=2, J=2</p>
 <p>2- L=2, I=2</p>
 <p>3- L=2, O=2</p>
